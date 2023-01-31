@@ -5,9 +5,9 @@ Spatial Genetic Programming in Python. This is the version of the article submit
 
 EuroGP 2023 article's Supplemental Materials:
 
-(Algortihm 1)[https://github.com/elemenohpi/EuroGP-SGP/blob/main/Algorthm1.png]
+[Algortihm 1](https://github.com/elemenohpi/EuroGP-SGP/blob/main/Algorthm1.png)
 
-(Algorithm 2)[https://github.com/elemenohpi/EuroGP-SGP/blob/main/Algorthm2.png]
+[Algorithm 2](https://github.com/elemenohpi/EuroGP-SGP/blob/main/Algorthm2.png)
 
 ----------------------------------
 
