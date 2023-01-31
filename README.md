@@ -25,7 +25,7 @@ Running SGP is as simple as running:
 
 `python sgp.py`
 
-You will have to edit the [config.ini](https://github.com/elemenohpi/EuroGP-SGP/blob/main/config.ini) file in order to specify the parameters of your experiment. This is where you can select your operators/modules/settings. In order to introduce new operators to the system and check the existing examples in [Operators](https://github.com/elemenohpi/EuroGP-SGP/tree/main/Operators. 
+You will need to edit the [config.ini](https://github.com/elemenohpi/EuroGP-SGP/blob/main/config.ini) file in order to specify the parameters of your experiment. This is where you can select your operators/modules/settings. In order to introduce new operators to the system and check the existing examples in [Operators](https://github.com/elemenohpi/EuroGP-SGP/tree/main/Operators. 
 
 ----------------------------------
 
