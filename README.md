@@ -7,7 +7,7 @@ Supplemental Materials for the EuroGP 2023 article:
 
 [Algortihm 1](https://github.com/elemenohpi/EuroGP-SGP/blob/main/Algorthm1.png)
 
-[Algorithm 2](https://github.com/elemenohpi/EuroGP-SGP/blob/main/Algorthm2.png)
+[Algorithm 2](https://github.com/elemenohpi/EuroGP-SGP/blob/main/Algorithm2.png)
 
 ----------------------------------
 
