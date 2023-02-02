@@ -1,5 +1,5 @@
 # EuroGP-SGP
-Spatial Genetic Programming (SGP) in Python. 
+Spatial Genetic Programming (SGP) in Python. SGP is a variation of Gentic Programming which evolves spatial properties of Linear Genetic Programming programs as a first-order component of the system. Although not fully tested, SGP is capable of encoding its outputs as Python programs.  
 
 ----------------------------------
 
