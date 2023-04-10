@@ -21,7 +21,7 @@ SGP requires a Python installation (3.8+). The required libraries are listed in 
 
 Run SGP using: 
 
-`python sgp.py`
+`python run.py`
 
 Edit [config.ini](https://github.com/elemenohpi/EuroGP-SGP/blob/main/config.ini) to specify experiment parameters, such as operators, modules, and settings. To add new operators, check [Operators](https://github.com/elemenohpi/EuroGP-SGP/tree/main/Operators).
 
