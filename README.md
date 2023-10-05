@@ -5,7 +5,7 @@ Spatial Genetic Programming (SGP) in Python. SGP is a variation of Gentic Progra
 
 Supplemental Materials for the EuroGP 2023 article:
 
-[Algortihm 1](https://github.com/elemenohpi/EuroGP-SGP/blob/main/Algorthm1.png)
+[Algorithm 1](https://github.com/elemenohpi/EuroGP-SGP/blob/main/Algorthm1.png)
 
 [Algorithm 2](https://github.com/elemenohpi/EuroGP-SGP/blob/main/Algorithm2.png)
 
